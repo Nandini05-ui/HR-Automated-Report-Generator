@@ -20,7 +20,16 @@ It calculates employee salaries, tracks attendance, and generates automated depa
 - Excel Formulas: SUM, IF, VLOOKUP/XLOOKUP  
 - Data Validation for accurate inputs  
 - Labels & Hyperlinks for easy navigation  
-- Automated calculations and report generation  
+- Automated calculations and report generation
+
+## ⚠️ Important Note
+This project is developed using Microsoft Excel (.xlsm) with VBA macros and form controls.
+GitHub does not support running Excel macros directly in the browser.  
+To experience the full functionality (automated reports, buttons, and form controls), download the file and open it using:
+
+- Microsoft Excel (Desktop Version)
+- Click "Enable Editing"
+- Click "Enable Content" to activate macros
 
 ## Project Outcome
 - Fully automated HR attendance and salary system  
